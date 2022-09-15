@@ -1,0 +1,4 @@
+#+title: Matrix send message action
+
+Reusable GitHub Actions workflow that uses [[https://github.com/8go/matrix-commander/][matrix-commander]] to send a message to
+a Matrix server.
